@@ -1,0 +1,8 @@
+open ftpdepo.com
+ftpuserp@ftpdepo.com
+P455word!
+dir
+lcd C:\Users\xxx\Desktop\FtpUpload
+put "_Stock-App_standard pentru stoc.xlsx"
+dir
+bye
